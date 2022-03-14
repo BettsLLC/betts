@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/betts/static/css/main.81b6930f.css",
-    "main.js": "/betts/static/js/main.444c9522.js",
+    "main.js": "/betts/static/js/main.ecd528fd.js",
     "static/js/787.39b9173a.chunk.js": "/betts/static/js/787.39b9173a.chunk.js",
     "static/media/beerBetts.jpg": "/betts/static/media/beerBetts.766afc5bb837805a6f6d.jpg",
     "static/media/graybg1.jpg": "/betts/static/media/graybg1.0b3e5def7e42edf616f1.jpg",
@@ -21,11 +21,11 @@
     "static/media/bet3.jpg": "/betts/static/media/bet3.6840a1ee7e68eb28aa98.jpg",
     "index.html": "/betts/index.html",
     "main.81b6930f.css.map": "/betts/static/css/main.81b6930f.css.map",
-    "main.444c9522.js.map": "/betts/static/js/main.444c9522.js.map",
+    "main.ecd528fd.js.map": "/betts/static/js/main.ecd528fd.js.map",
     "787.39b9173a.chunk.js.map": "/betts/static/js/787.39b9173a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81b6930f.css",
-    "static/js/main.444c9522.js"
+    "static/js/main.ecd528fd.js"
   ]
 }
