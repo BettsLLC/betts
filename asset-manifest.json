@@ -1,12 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.81b6930f.css",
-    "main.js": "/static/js/main.71868cac.js",
+    "main.js": "/static/js/main.d318fa4e.js",
     "static/js/787.39b9173a.chunk.js": "/static/js/787.39b9173a.chunk.js",
-    "static/media/beerBetts.jpg": "/static/media/beerBetts.766afc5bb837805a6f6d.jpg",
     "static/media/graybg1.jpg": "/static/media/graybg1.0b3e5def7e42edf616f1.jpg",
     "static/media/betts.jpg": "/static/media/betts.7ced682afa5423f54d4f.jpg",
     "static/media/bet8.jpg": "/static/media/bet8.c7d2a6b53720e707d8b4.jpg",
+    "static/media/suit_betts.jpg": "/static/media/suit_betts.8573b3d4e15c43e58f3f.jpg",
     "static/media/bitcoin.png": "/static/media/bitcoin.c0cfe51f46de8a2ccb45.png",
     "static/media/bet4.jpg": "/static/media/bet4.ce3bc40c5b7e2bead18d.jpg",
     "static/media/bet1.jpg": "/static/media/bet1.658d13daa8425c11eb06.jpg",
@@ -21,11 +21,11 @@
     "static/media/bet3.jpg": "/static/media/bet3.6840a1ee7e68eb28aa98.jpg",
     "index.html": "/index.html",
     "main.81b6930f.css.map": "/static/css/main.81b6930f.css.map",
-    "main.71868cac.js.map": "/static/js/main.71868cac.js.map",
+    "main.d318fa4e.js.map": "/static/js/main.d318fa4e.js.map",
     "787.39b9173a.chunk.js.map": "/static/js/787.39b9173a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.81b6930f.css",
-    "static/js/main.71868cac.js"
+    "static/js/main.d318fa4e.js"
   ]
 }
