@@ -1,0 +1,9 @@
+export const bet1 = require('./bet1.jpg');
+export const bet2 = require('./bet2.jpg');
+export const bet3 = require('./bet3.jpg');
+export const bet4 = require('./bet4.jpg');
+export const bet5 = require('./bet5.jpg');
+export const bet6 = require('./bet6.jpg');
+export const bet7 = require('./bet7.jpg');
+export const bet8 = require('./bet8.jpg');
+export const bet9 = require('./bet9.jpg');
